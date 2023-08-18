@@ -1,0 +1,1 @@
+{"name":"Local: fibonaccharasis","url":"/Users/tejas/Desktop/resources_/CP/CF/fibonaccharasis.cpp","tests":[{"id":1690843899124,"input":"8\n22 4\n3 9\n55 11\n42069 6\n69420 4\n69 1434\n1 3\n1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tejas/Desktop/resources_/CP/CF/fibonaccharasis.cpp","group":"local","local":true}
